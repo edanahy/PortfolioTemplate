@@ -4,7 +4,7 @@ A simple portfolio of projects.
 
 ## For Students:
 
-Go to top right of GitHub and select "Fork" to fork this project to your own account.
+From the homepage of this repository, select "Use this template" to import these files into a new repository within your own account.
 
 ## Then Customize:
 
